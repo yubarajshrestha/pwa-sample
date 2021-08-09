@@ -1,0 +1,15 @@
+{
+  "background_color": "white",
+  "description": "A sample application to demonstrate pwa.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "PWA Sample Application",
+  "short_name": "PWA",
+  "start_url": "/index.html"
+}
